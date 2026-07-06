@@ -1,4 +1,4 @@
-# Mochu Productivity Dashboard
+# PersonalProductivity Dashboard
 
 A simple Streamlit dashboard for tracking daily tasks, monthly progress, and personal reflections. The main idea behind this project was to move a productivity tracker from a local/manual format into a small web app that can be opened from any device and still remember the saved task status.
 
@@ -142,7 +142,7 @@ Streamlit Cloud -> App Settings -> Secrets
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mochu-productivity-dashboard.git
+git clone https://github.com/Rahul-Ratusaria/productivity-dashboard.git
 cd mochu-productivity-dashboard
 ```
 
